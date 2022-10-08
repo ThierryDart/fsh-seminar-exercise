@@ -1,0 +1,8 @@
+Name                          Type      File
+OSABodyMassIndex              Profile   profiles\OSABodyMassIndex.fsh
+OSAPatient                    Profile   profiles\OSAPatient.fsh
+OSAPractitioner               Profile   profiles\OSAPractitioner.fsh
+ObstructiveSleepApneaVS       ValueSet  valuesets\ObstructiveSleepApneaVS.fsh
+osa-bmi-example               Instance  instances\osa-bmi-example.fsh
+osa-patient-jane-doe          Instance  instances\osa-patient-jane-doe.fsh
+osa-practitioner-kyle-anydoc  Instance  instances\osa-practitioner-kyle-anydoc.fsh

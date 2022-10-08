@@ -1,0 +1,13 @@
+canonical: http://fshschool.org/courses-fsh-seminar-exercise
+fhirVersion: 4.0.1
+FSHOnly: true
+applyExtensionMetadataToRoot: false
+id: org.fshschool.courses.fsh-seminar-exercise
+name: FSHSeminarExerciseOSAA
+status: draft
+version: 0.1.0
+dependencies:
+  hl7.fhir.us.core:
+    version: 5.0.1
+    uri: http://hl7.org/fhir/us/core/ImplementationGuide/hl7.fhir.us.core
+    id: hl7_fhir_us_core
