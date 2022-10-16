@@ -6,3 +6,6 @@ Alias:   $ObsStatus = http://hl7.org/fhir/observation-status
 // US Core
 Alias:   $USCorePatient = http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient
 Alias:   $USCoreBodyMassIndex = http://hl7.org/fhir/us/core/StructureDefinition/us-core-bmi
+Alias:   $USCoreCondition = http://hl7.org/fhir/us/core/StructureDefinition/us-core-condition-encounter-diagnosis
+Alias:   $USCorePractitioner = http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner
+

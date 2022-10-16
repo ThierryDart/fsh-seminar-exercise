@@ -23,3 +23,6 @@ Description: "Example of OSA BMI value"
 Instance: osa-practitioner-kyle-anydoc
 InstanceOf: OSAPractitioner
 Description: "Placeholder - will be filled in in Exercise 3"
+* name.family = "Dupont"
+* identifier.value = "789798678"
+* identifier.system = "http://hl7.org/fhir/sid/us-npi"
