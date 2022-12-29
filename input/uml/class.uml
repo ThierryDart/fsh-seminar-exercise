@@ -1,0 +1,24 @@
+@startuml
+class Patient
+class Practitioner
+class Condition 
+
+class USPatient
+class USPractitioner
+class USCondition 
+
+class OSAPatient
+class OSAPractitioner
+class OSABodyMassIndex
+class OSACondition
+
+Patient <|-- USPatient
+Practitioner <|-- USPractitioner
+Condition <|-- USCondition
+
+USPatient <|-- OSAPatient
+USPractitioner <|-- OSAPractitioner
+USCondition <|-- OSACondition
+
+
+@enduml

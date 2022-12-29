@@ -1,9 +1,6 @@
 # FSHSeminarExercise
 
-Feel free to modify this index page with your own awesome content!
-
-https://fshschool.org/courses/fsh-seminar/ 
-
+Original seminar is located at : https://fshschool.org/courses/fsh-seminar/ 
 
 ### Step 1: Define problem & participants
 

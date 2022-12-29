@@ -206,11 +206,15 @@ The use case for this work is as follows:
 
 Typically a use case like this would be developed with the involvement of stakeholders and subject matter experts. In this case, OSAA and providers from study sites would likely be involved alongside the technical experts authoring the specification.
 
+{% include usecase.svg %}
+
 #### Step 3: Workflow/Data Elements/Terminology
 
 ##### Workflow
 
 Out of scope because this is a Domain of Knowledge IG.
+
+{% include sequence.svg %}
 
 ##### Data elements
 
@@ -232,6 +236,9 @@ Based on the use case, the essential data elements are:
     * BMI calculated value
     * Date when calculated
     * The provider who performed the BMI calculation
+
+
+{% include class.svg %}
 
 ##### Terminology
 

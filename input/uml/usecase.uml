@@ -1,0 +1,11 @@
+@startuml
+package Registry {
+usecase (Read usecase) as (UC2)
+usecase (Push usecase) as (UC1)
+}
+actor :Healthcare\nprofessional: as HP1
+
+UC2 ..> UC1
+HP1 --> UC1 : Push
+HP1 --> UC2 : Read
+@enduml

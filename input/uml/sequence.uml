@@ -1,0 +1,7 @@
+@startuml
+actor :Healthcare\nprofessional: as HP1
+database Registry as REG
+
+HP1 -> REG : push
+HP1 <- REG : read
+@enduml
